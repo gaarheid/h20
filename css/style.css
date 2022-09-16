@@ -1,11 +1,8 @@
-html {
-    background: url(../img/bg.jpg);
-    background-size: cover;
-}
-
 html, body {
     color: white;
     background-color: rgb(59, 59, 59);
+    background: url(../img/bg.jpg);
+    background-size: stretch;
 }
 
 .img-thumbnail {
