@@ -1,0 +1,49 @@
+html, body {
+    color: white;
+    background-color: rgb(59, 59, 59);
+    background: url(/img/bg.jpg);
+    bac
+}
+
+.img-thumbnail {
+    background-color: rgb(59, 59, 59);
+    border-color: orange;
+    margin: 0.3rem;
+}
+
+h1 {
+    background-color: orange;
+    color: rgb(59, 59, 59);
+    border: 1px solid rgb(255, 255, 255);
+    margin: 1rem;
+}
+
+h5 {
+    color: orange;
+}
+
+.titel {
+    margin: 5px;
+    background-color: rgba(59, 59, 59, 0.329);
+}
+
+a {
+    color: orange
+}
+
+a:hover {
+    color: orangered;
+}
+
+.main {
+    background-color: rgba(59, 59, 59, 0.329);
+
+}
+
+.side {
+    background-color: rgba(59, 59, 59, 0.329);
+}
+
+.table {
+    color: white;
+}
