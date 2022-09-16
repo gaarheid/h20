@@ -1,8 +1,7 @@
 html, body {
     color: white;
     background-color: rgb(59, 59, 59);
-    background: url(../img/bg.jpg);
-    bac
+    background: url(/img/bg.jpg);
 }
 
 .img-thumbnail {
